@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Development Engineer | 💻 Gateway Group of Companies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00A5FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;KMP+%7C+SwiftUI+%7C+React+Native;AWS+%7C+Azure+%7C+DevOps+Writer;Node.js+%7C+React+%7C+MongoDB+%7C+Express.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00A5FF&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;KMP+%7C+SwiftUI+%7C+React+Native;AWS+%7C+Azure+%7C+DevOps;Node.js+%7C+React+%7C+MongoDB+%7C+Express.js" alt="Typing SVG" />
 </p>
 
 ---
