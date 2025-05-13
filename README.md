@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Development Engineer | 💻 Gateway Group of Companies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00A5FF&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;KMP+%7C+SwiftUI+%7C+React+Native;AWS+%7C+Azure+%7C+DevOps;Node.js+%7C+React+%7C+MongoDB+%7C+Express.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00A5FF&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;SwiftUI+%7C+Kotlin+Multiplatform+%7C+Kotlin;React+Native+%7C+Node.js+%7C+MongoDB+%7C+Express.js;AWS+%7C+Azure+%7C+DevOps" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,19 +14,20 @@
 ---
 
 ## 💼 About Me
-- 🔭 Working on **Lifeness HealthTech (Norway)** at **Gateway Group of Companies** covering technologies **SwiftUi, KMP, Kotlin, Flutter**  
-- ✍️ I write blogs about **AWS**, **Azure**, **DevOps**, and **Optimizing Development**  
-- ⚡ Passionate about solving real-world problems with scalable architectures  
+- 🔭 Working on **Lifeness HealthTech (Norway)** at **Gateway Group of Companies** covering **SwiftUI, Kotlin Multiplatform (KMP), Kotlin, Flutter**  
+- ✍️ Blogging about **AWS**, **Azure**, **DevOps**, and **Optimizing Development Workflows**  
+- ⚡ Love building production-grade apps that scale and stay resilient under pressure  
 
 ---
 
 ## 🛠️ Tech Stack
-![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -35,8 +36,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmankad&show_icons=true&theme=radical" alt="Dev Mankad GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmankad&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devmankad&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=false" alt="Dev Mankad GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmankad&layout=compact&theme=radical&langs_count=6&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
@@ -51,4 +53,4 @@
 ---
 
 ## ✨ Fun Fact
-> "I love turning coffee ☕ into scalable, resilient code."
+> "I love turning coffee ☕ into scalable, resilient code — and explaining it in blogs so others can too."
